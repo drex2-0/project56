@@ -1,4 +1,8 @@
-1{
-    width: 350px;
-    height: 350px;
+img{
+    height: 500px;
+    width: 500px;
+    margin: 50px;
+}
+body{
+    text-align: center;
 }
